@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+body{
+	margin:0;
+	padding:0;
+	background: #F5F5F5;
+	text-align:center;
+}
+.login{
+	margin-top:18%;
+}
+.login .log{
+	margin: auto;
+	padding:1%;
+	width: 20%;
+	border: 1px solid cadetblue;
+	border-radius:10px 10px 10px 10px;
+	background: #ccc;
+}
+.login .log input{
+	width: 80%;
+	margin:3%;
+	padding:2%;
+	text-align:center;
+	border-radius:5px 5px 5px 5px;
+	border: 0.5px solid cadetblue;
+}
+.login .log button{
+	width: 40%;
+	margin-top:3%;
+	padding:1%;
+	border-radius:5px 5px 5px 5px;
+	border: 0.5px solid cadetblue;
+}
